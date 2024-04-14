@@ -1,18 +1,17 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Welcome<br>
+In this repository, you can find the code for creating a basic Flappy Bird game.
 
-## Folder Structure
+## File Structure
 
-The workspace contains two folders by default, where:
+The workspace contains two main files, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+App.java- contains executable code and inherits the FlappyBird.java file.
+FlappyBird.java - contains the complete code for the game you may add changes to the game.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Graphics
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+The overall images needed in creating this game have also been provided with their respective names.
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Happy Coding!!
